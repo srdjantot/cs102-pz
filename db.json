@@ -1,0 +1,34 @@
+{
+    "recipes": [
+        {
+            "name": "Americano",
+            "coffee": 6.0,
+            "milk": 0.0,
+            "cream": 0.0
+        },
+        {
+            "name": "Cappucino",
+            "coffee": 3.0,
+            "milk": 4.0,
+            "cream": 3.0
+        },
+        {
+            "name": "Espresso",
+            "coffee": 4.0,
+            "milk": 0.0,
+            "cream": 0.0
+        },
+        {
+            "name": "Latte",
+            "coffee": 3.0,
+            "milk": 6.0,
+            "cream": 1.0
+        },
+        {
+            "name": "Macchiato",
+            "coffee": 4.0,
+            "milk": 0.0,
+            "cream": 1.0
+        }
+    ]
+}
